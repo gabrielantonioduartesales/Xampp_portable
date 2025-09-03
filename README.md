@@ -3,4 +3,4 @@ Precisa programar para web sem acesso de administrador? Tenho a solução! Com o
 Apache, Mysql, Tomcat... 
 Como usar o XAMPP:
 ## 1º Passo: Ao baixar o arquivo, extraia a pasta zip;
-## 2º Paasso: Se ele tiver criado uma pasta pain 
+## 2º Passo: Se ele tiver criado uma pasta pain 
